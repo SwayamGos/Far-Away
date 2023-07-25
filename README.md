@@ -4,14 +4,18 @@ This is a simple web application that allows you to keep track of items you migh
 
 ## FEATURES
 
-You can add as many items as you want.
+- You can add as many items as you want.
 
-You can set the quantity of any item from 1 to 20.
+- You can set the quantity of any item from 1 to 20.
 
-Adding and removing items from the list, as well as clearing the entire list can be done in a click.
+- Adding and removing items from the list, as well as clearing the entire list can be done in a click.
 
-You can also check each item. Checked items are considered as packed, while unchecked items are considered as not packed yet.
+- You can also check each item. Checked items are considered as packed, while unchecked items are considered as not packed yet.
 
-A stat indicator that shows how many items are still left to be packed.
+- A stat indicator that shows how many items are still left to be packed.
 
-Items can be sorted in order of input, packed status or alphabetically.
+- Items can be sorted in order of input, packed status or alphabetically.
+
+## PROJECT LINK:
+
+https://fastidious-yeot-a12fb2.netlify.app/
